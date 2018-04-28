@@ -1,11 +1,2 @@
 remote_theme: thomasvaeth/trophy-jekyll
 
----
-layout: post
-title: "This is a test post"
-date: "April 28, 2018"
-categories:
-description: "something about bears"
-image: 
-image-sm:
----
